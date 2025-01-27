@@ -123,9 +123,62 @@ a{
     padding: 105px;
 }
 
-.quote-container-text{
+.quote-container-text,
+.author
+{
     font-size: 36px;
     font-style: italic;
     font-weight: lighter;
-    margin: 0 150px;
+    margin: 0 250px;
 }
+.author{
+    font-weight: bold;
+    font-size: 24px;
+    text-align: end;
+    padding: 2px;
+    
+}
+
+.call-to-action-container{
+    display: flex;
+    background-color: #3882F6;
+ margin: 100px;
+ justify-content: space-evenly;
+    
+}
+.call-to-action-container-body
+{
+    padding: 20px;
+   
+   
+}
+.call-to-action-container-body-heading{
+    color:#F9FAF8;
+    font-size: 24px;
+
+}
+.call-to-action-container-body-heading-content{
+    color:#F9FAF8;
+}
+
+.call-to-action-container-body-button{
+ justify-content: end;
+ padding: 5px;
+ margin-top: 25px;
+ border-radius: 5px;
+ background-color: #3882F6;
+ color:#F9FAF8;
+
+ border-color: white;
+ border-width: 3px;
+ width: 150px;
+}
+
+.footer-container{
+    background-color: #1F2937;
+    padding: 30px;
+    text-align: center;
+    color:#F9FAF8;
+    
+}
+
