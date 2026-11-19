@@ -5,4 +5,4 @@ Today I learned:
 - Git pull
 - Branches
 - Pull Requests
-- Forking
+- Forkin
